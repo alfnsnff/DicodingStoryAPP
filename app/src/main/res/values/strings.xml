@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi ilmu seputar Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Di Dicoding Story aja!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story App!!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="move_to_signup">Belum Punya Akun?</string>
+    <string name="btn_to_signup">Daftar</string>
+    <string name="move_to_login">Sudah Punya Akun?</string>
+    <string name="btn_to_login">Masuk</string>
+    <string name="btn_to_addStory">TambahStory</string>
+    <string name="title_login_page">Sudah siap untuk berbagi pengalaman dan cerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="toadd">add</string>
+    <string name="upload_failed_message">Error Uploading\n</string>
+    <string name="desc_must_be_filled_warning">Description is emypty</string>
+    <string name="description">Description</string>
+</resources>
